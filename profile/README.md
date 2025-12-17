@@ -2,16 +2,17 @@
 
 ### Enterprise Vulnerability Management & Risk Assessment
 
-Welcome to the engineering home of the CTS Risk Platform. We build secure, multi-tenant solutions that help organizations identify, assess, and mitigate cybersecurity risks.
+Welcome to the CTS Risk Platform. We build secure, multi-tenant solutions that help organizations identify, assess, and mitigate cybersecurity risks.
 
 ---
 
-### 🏗️ Tech Stack
+### 💼 Commercial Inquiries
 
-We rely on a modern, type-safe architecture to ensure performance and security.
-- **Frontend:** React, TypeScript, Vite
-- **Backend:** Supabase (PostgreSQL), Deno Edge Functions
-- **Infrastructure:** Azure Static Web Apps
+To learn more about how the CTS Risk Platform can secure your organization, please contact our commercial team.
+
+- **Sales & Demos:** Contact our sales department to schedule a comprehensive platform demonstration.
+
+---
 
 ### 🔐 Security & Compliance
 
@@ -24,9 +25,9 @@ We rely on a modern, type-safe architecture to ensure performance and security.
 ### 📍 Getting Started
 
 - **Clients:** Please refer to your onboarding email for your specific instance URL.
-- **Partners:** Contact the engineering team for API documentation and SDK access.
+- **Partners:** Contact your account manager for integration documentation.
 - **Support:** For urgent issues, please reach out via your dedicated support channel.
 
 ---
 
-_© CTS Risk Platform Engineering_
+_© CTS Risk Platform_
